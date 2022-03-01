@@ -39,7 +39,7 @@ Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passiona
 
 
 <a href="https://github.com/siddhivinayakdubey">
-  <img height="190em" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhivinayakdubey&" />
+  <img height="190em" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhivinayakdubey&" />
 </a>
 
 <br>
