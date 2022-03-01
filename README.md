@@ -38,7 +38,7 @@ Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passiona
 </a>
 <a href="https://github.com/siddhivinayakdubey">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhvinayakdubey&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhivinayakdubey&theme=buefy&layout=compact" />
 </a>
 <br>
 
