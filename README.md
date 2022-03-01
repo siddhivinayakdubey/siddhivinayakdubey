@@ -32,12 +32,12 @@ Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passiona
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
 <br>
 <a href="https://github.com/siddhivinayakdubey">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhivinayakdubey&" />
 </a>
 <br>
+
 if you like what i do, maybe consider buying me a coffee/tea :)
 
 <a href="https://www.buymeacoffee.com/siddhivinayak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
