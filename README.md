@@ -36,7 +36,10 @@ Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passiona
 <a href="https://github.com/siddhivinayakdubey">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhivinayakdubey&" />
 </a>
+<a href="https://github.com/siddhivinayakdubey">
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhvinayakdubey&theme=buefy&layout=compact" />
+</a>
 <br>
 
 if you like what i do, maybe consider buying me a coffee/tea :)
