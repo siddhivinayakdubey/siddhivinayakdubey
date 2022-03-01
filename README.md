@@ -21,7 +21,7 @@ Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passiona
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
-
+<br>
 - 💼 reach out to me at [email](mailto:siddhivinayakdubey@yahoo.com) :)
 - 💬 ask me about anything, i am happy to help;
 
