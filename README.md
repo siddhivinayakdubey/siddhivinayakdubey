@@ -35,7 +35,7 @@ Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passiona
 
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 <br>
 <a href="https://github.com/siddhivinayakdubey">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhivinayakdubey&" />
