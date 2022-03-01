@@ -13,7 +13,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=siddhivinayakdubey)
+![](https://visitor-badge.glitch.me/badge?page_id=siddhivinayakdubey.siddhivinayakdubey)
 
 <br />
 
