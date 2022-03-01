@@ -19,7 +19,7 @@
 
 Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passionate machine learning enthusiast & a self-taught software engineer from india. I'm also a storyteller and I narrate my life stories in the form of episodes in my [Youtube Channel](https://youtube.com/siddhivinayakdubey). My main objective towards my career is I want to solve problems noo matter how big they are. I take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
   
 - 💼 reach out to me at [email](mailto:siddhivinayakdubey@yahoo.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -38,11 +38,15 @@ Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passiona
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhivinayakdubey&" />
 </a>
 
+<br>
+
 <a href="https://github.com/siddhivinayakdubey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhivinayakdubey&theme=buefy&layout=compact" />
 </a>
 <br>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
 if you like what i do, maybe consider buying me a coffee/tea :)
 
 <a href="https://www.buymeacoffee.com/siddhivinayak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
