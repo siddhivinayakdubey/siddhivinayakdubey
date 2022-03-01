@@ -36,10 +36,10 @@ Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passiona
 <a href="https://github.com/siddhivinayakdubey">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhivinayakdubey&" />
 </a>
+
 <br>
 
 if you like what i do, maybe consider buying me a coffee/tea :)
-
 <a href="https://www.buymeacoffee.com/siddhivinayak" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
