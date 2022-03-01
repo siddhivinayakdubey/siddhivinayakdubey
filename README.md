@@ -2,8 +2,8 @@
 <a href="https://www.instagram.com/siddhivinayakdubey/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/Siddhivinayak#4412">
-  <img align="left" alt="Siddhivinayak's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://youtube.com/siddhivinayakdubey">
+  <img align="left" alt="Siddhivinayak's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://twitter.com/siddhivinayak04">
   <img align="left" alt="Siddhivinayak Dubey | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
