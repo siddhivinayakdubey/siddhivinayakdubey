@@ -34,11 +34,11 @@ Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passiona
 
 <br>
 <a href="https://github.com/siddhivinayakdubey">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhivinayakdubey&" />
+  <img height="180em" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhivinayakdubey&" />
 </a>
 <a href="https://github.com/siddhivinayakdubey">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhivinayakdubey&theme=buefy&layout=compact" />
+  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhivinayakdubey&theme=buefy&layout=compact" />
 </a>
 <br>
 
