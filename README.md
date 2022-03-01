@@ -20,7 +20,7 @@
 Hi, i'm [Siddhivinayak Dubey](https://znap.link/siddhivinayakdubey/), a passionate machine learning enthusiast & a self-taught software engineer from india. I'm also a storyteller and I narrate my life stories in the form of episodes in my [Youtube Channel](https://youtube.com/siddhivinayakdubey). My main objective towards my career is I want to solve problems noo matter how big they are. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="4oo"height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 <br>
 
 - 💼 reach out to me at [email](mailto:siddhivinayakdubey@yahoo.com) :)
